@@ -4,3 +4,8 @@
 - E-Mail: superman007911@gmail.com
 - Discord ANZO|PLAY#9725
 - Telegram: @Danik747
+--------
+# Work experience:
+I do not have work experience.
+
+--------
