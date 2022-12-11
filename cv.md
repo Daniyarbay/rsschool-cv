@@ -18,8 +18,10 @@ I hope to complete the course completely and become a junior developer.
 This is my first programming course.
 
 --------
-# Code example
+# Code example:
 function multiply(a, b){
    
  returm a * b
 }
+# Language
+English level __A1__
