@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Daniyarbay.github.io/rsschool-cv/cv
