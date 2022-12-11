@@ -16,3 +16,10 @@ I hope to complete the course completely and become a junior developer.
 --------
 # Courses:
 This is my first programming course.
+
+--------
+# Code example
+function multiply(a, b){
+   
+ returm a * b
+}
